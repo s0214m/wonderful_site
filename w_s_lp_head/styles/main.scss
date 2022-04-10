@@ -1,0 +1,178 @@
+body{
+  margin: 0;
+  box-sizing: border-box;
+  line-height: 1.8;
+}
+
+.w_s_lp_container {
+  margin: 0;
+  width: 100%;
+}
+
+#header {
+  position: fixed;
+}
+
+.h_nav {
+  overflow: hidden;
+}
+
+.h_nav_row {
+  overflow: hidden;
+}
+
+.h_nav_logo {
+  float: left;
+  overflow: hidden;
+  display: table;
+  margin-top: 11px;
+  width: 100%;
+  max-width: 180px;
+  height: 90px;
+}
+
+.h_nav_img_btn {
+  display: inline-block;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.h_nav_img {
+  display: inline-block;
+  height: auto;
+}
+
+.h_nav_row ul {
+  overflow: hidden;
+  margin: 0;
+}
+
+.h_nav_row ul li {
+  list-style-type: none;
+}
+
+.h_nav_btn {
+  float: left;
+  display: block;
+  padding: 15px;
+  margin: 34px 0  0;
+  text-decoration: none;
+  line-height: 20px;
+  color: black;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.to_ask {
+  overflow: hidden;
+  display: inline-block;
+}
+
+.to_ask_btn {
+  display: block;
+  padding: 14px 20px 12px;
+  margin: 32px 0;
+  line-height: 20px;
+  text-decoration: none;
+}
+
+
+.w_s_lp_head {
+  width: 100%;
+  background: url(https://wonderful-wife.net/wp-content/themes/agent_tcd033/img/w_code/head_bg.jpg) no-repeat center center;
+  background-size: cover;
+  margin: -20px 0 0;
+  padding: 160px 0 0;
+  background-size: cover;
+  background-color: #000;
+}
+
+.w_s_lp_head_box {
+  border: 6px solid #000;
+  border-radius: 20px;
+  background: #fff;
+  padding: 2em 1em;
+  width: 100%;
+  max-width: 700px;
+  text-align: center;
+  color: #131d34;
+  font-size: 16px;
+  margin: 0 auto 2em;
+}
+
+.w_s_ttl {
+  font-size: 38px;
+  font-weight: bold;
+  line-height: 1;
+  margin: 0;
+}
+
+.w_s_sub_ttl {
+  margin: 0 0 1em;
+}
+
+.w_s_head_txt1 {
+  font-size: 22px;
+}
+
+.w_s_head_txt1 p {
+  margin: 0 0 10px;
+}
+
+.w_s_head_txt2 {
+  font-size: 24px;
+  line-height: 1.2;
+  font-weight: bold;
+}
+
+.yellow_line {
+  background: linear-gradient(transparent 60%, #f9ff10 60%);
+}
+
+.w_s_head_btn{
+  background: #009bcf;
+  display: block;
+  color: #fff;
+  padding: 1em 1em;
+  max-width: 560px;
+  width: 94%;
+  margin: 1em auto 0;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: all .25s ease-in-out;
+}
+
+.w_s_head_btn:hover {
+  opacity: 0.7;
+}
+
+.warning {
+  font-size: 0.8em;
+}
+
+
+.w_s_lp_head_mes_uni{
+  width: 100%;
+  margin: 0 auto;
+  background: #000;
+  color: #fff;
+  padding: 140px 0 3em;
+}
+
+.w_s_lp_head_mes_ttl{
+  border-bottom: 1px solid #ffffff;
+  width: 800px;
+  color: #fff;
+  font-size: 26px;
+  font-weight: normal;
+  padding: 0 0 0.2em;
+  margin: 0 auto 13px auto;
+  line-height: 1.1;
+  text-align: center;
+}
+
+.w_s_lp_head_mes_body {
+  width: 800px;
+  color: #fff;
+  margin: 0 auto 10px auto;
+}
